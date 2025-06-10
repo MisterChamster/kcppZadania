@@ -1,0 +1,1 @@
+#include "Zad10Kcpp.h"
