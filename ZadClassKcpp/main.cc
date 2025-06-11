@@ -7,3 +7,11 @@
 //   - menu:
 //    - sekcja
 //    - numer zadania w sekcji i opis w kilu słowach co dana funkcja (zadanie) zawiera
+#include <iostream>
+#include "include/Zad1Kcpp.h"
+
+int main() {
+    Zad1Kcpp::runTask();
+
+    return 0;
+}
