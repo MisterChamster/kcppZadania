@@ -8,10 +8,10 @@
 //    - sekcja
 //    - numer zadania w sekcji i opis w kilu słowach co dana funkcja (zadanie) zawiera
 #include <iostream>
-#include "include/Zad1Kcpp.h"
+#include "include/ZadKcpp.h"
 
 int main() {
-    Zad1Kcpp::runTask();
+    ZadKcpp::Exercise1();
 
     return 0;
 }

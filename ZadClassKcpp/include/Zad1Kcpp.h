@@ -1,6 +1,6 @@
 #ifndef ZAD1KCPP_H
 #define ZAD1KCPP_H
-#include <iostream>
+// #include <iostream>
 
 class Zad1Kcpp {
     public:
