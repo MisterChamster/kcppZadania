@@ -4,9 +4,7 @@
 
 class Zad1Kcpp {
     public:
-        static void runTask() {
-            std::cout<<"HEELLLOUUUUUU\n";
-        }
+        static void runTask();
 };
 
 #endif // ZAD1KCPP_H
