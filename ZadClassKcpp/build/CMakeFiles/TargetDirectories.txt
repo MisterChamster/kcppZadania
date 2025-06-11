@@ -1,3 +1,0 @@
-/Users/chamster/gitClones/kcppZadania/ZadClassKcpp/build/CMakeFiles/hello_NADUSIA.dir
-/Users/chamster/gitClones/kcppZadania/ZadClassKcpp/build/CMakeFiles/edit_cache.dir
-/Users/chamster/gitClones/kcppZadania/ZadClassKcpp/build/CMakeFiles/rebuild_cache.dir
