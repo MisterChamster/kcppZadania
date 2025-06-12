@@ -1,6 +1,7 @@
 // Performs ZadStringExample (1.2)
 #include "Zad3Kcpp.h"
-#include <string.h>
+// It's weird that this works withour string lib. Like, why?
+// #include <string.h>
 #include <iostream>
 using namespace std;
 
