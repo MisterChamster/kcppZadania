@@ -21,7 +21,7 @@ int main() {
     // ZadKcpp::Exercise6();
     // ZadKcpp::Exercise7();
     // ZadKcpp::Exercise8();
-    ZadKcpp::Exercise9();
+    // ZadKcpp::Exercise9();
     ZadKcpp::Exercise10();
 
     return 0;

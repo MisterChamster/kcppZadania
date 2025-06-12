@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;  
+using namespace std;
 
 void zamien(int* a, int* b){
     int value_a = *a;
