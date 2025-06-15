@@ -6,7 +6,7 @@ include_directories(include)
 
 # Add executable with source files
 add_executable(
-    hello_NADUSIA
+    main
     main.cc
     src/ZadKcpp.cc
     src/Zad1Kcpp.cc
